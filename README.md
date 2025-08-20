@@ -1,0 +1,2 @@
+# LLM with Tool
+    This project demonstrates how to use a language model (LLM) in conjunction with external tools/functions to enhance its capabilities. The integration allows the LLM to perform tasks that require real-world knowledge and access to up-to-date information.
